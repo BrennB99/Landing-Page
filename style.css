@@ -38,5 +38,8 @@ body {
     height: 72px;
     margin: 0px;
     background-color: #004e8f;
-
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
