@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+}
+
+.site-container {
+    height: 100vh;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.section-1 {
+    background-color: #004e8f;
+    flex: 1;
+}
+
+.section-2 {
+    background-color: white;
+    flex: 1;
+}
+
+.section-3 {
+    background-color: #f0f0f0;
+    flex: 1;
+}
+
+.section-4 {
+    background-color: white;
+    flex: 1;
+}
+
+.footer {
+    height: 72px;
+    margin: 0px;
+    background-color: #004e8f;
+
+}
